@@ -22,7 +22,7 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
+    <a href = "https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcRzDfcxwjDGkKgpbxMwKtSxpVnFdkbjnfBklfMNKHRLdcXfkQDKkcjVVWxCwGFHmlxsHcVbW">
       <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/igor-batista-lima-11a4a024b/">
